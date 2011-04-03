@@ -1,0 +1,9 @@
+This is a PCM resampling module written as a standalone native Android module.
+See:
+http://android.git.kernel.org/?p=platform/ndk.git;a=blob_plain;f=docs/IMPORT-MODULE.html
+for more information.
+Most of the code is originally based on libresample and resample, which can be
+found at: https://ccrma.stanford.edu/~jos/resample/Free_Resampling_Software.html
+This library, like the libraries it is based upon, is licensed under the
+Lesser GPL version 2.1, further licensing information can be found in the
+LICENSE file.

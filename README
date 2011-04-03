@@ -1,0 +1,3 @@
+A collection of native modules that MicDroid functionality depends on. These
+currently include: LAME, sndfile, resample, autotalent, and oslec. See each
+respective library's folder for more details.

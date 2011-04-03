@@ -1,0 +1,8 @@
+This is a version of autotalent designed to fit the standalone native Android
+module format. See:
+http://android.git.kernel.org/?p=platform/ndk.git;a=blob_plain;f=docs/IMPORT-MODULE.html
+for more information.
+Autotalent is originally written by Tom Baran, I have only modified it for
+input/output in short format.
+Autotalent is originally licensed under the GPL2 license, see the LICENSE file
+for more information.
